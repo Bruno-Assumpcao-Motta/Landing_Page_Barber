@@ -198,6 +198,15 @@ i {
     flex-direction: column;
   }
 }
+.services {
+  background-color: #fff;
+  color: #232224;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
 body {
   font-family: "Sora", sans-serif;
   width: 100%;
