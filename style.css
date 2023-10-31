@@ -222,8 +222,10 @@ i {
   max-width: 780px;
 }
 
-.heircuts {
+.haircuts {
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 body {
